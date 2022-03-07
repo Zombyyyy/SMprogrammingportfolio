@@ -5,7 +5,7 @@
 ### Konkey Dong
 OOP graphics 2D collision based shooter. Created winter of 2021
 
-![KonkeyDong]()
+![KonkeyDong](Barrel2.png)
 
 [Source Code for KonkeyDong]()
 
